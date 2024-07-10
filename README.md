@@ -1,7 +1,7 @@
 Library Management System
 
 This project uses C++ to create a system which is to be used by Librarians to manage various library functions.
-Some examples are to manage book inventorie, track book checkouts and returns, handle late returns, reservations and reservation cancellations.
+Some examples are to manage book inventories, track book checkouts and returns, handle late returns, reservations and reservation cancellations.
 
 The base class is Book, which through composition is used by the Inventory class, which itself is used by the Library class.
 
